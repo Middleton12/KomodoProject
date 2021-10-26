@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodaClasses", "DeveloperRepo\KomodaClasses.csproj", "{6447BED6-67E0-4064-9E5A-4903CC9209D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Komodo_Console", "ProgramUI\Komodo_Console.csproj", "{61DA9C28-C40B-4322-AFCA-B0A0FAC21824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6447BED6-67E0-4064-9E5A-4903CC9209D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6447BED6-67E0-4064-9E5A-4903CC9209D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6447BED6-67E0-4064-9E5A-4903CC9209D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6447BED6-67E0-4064-9E5A-4903CC9209D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61DA9C28-C40B-4322-AFCA-B0A0FAC21824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DA9C28-C40B-4322-AFCA-B0A0FAC21824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DA9C28-C40B-4322-AFCA-B0A0FAC21824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DA9C28-C40B-4322-AFCA-B0A0FAC21824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C04E1EA-9358-465C-8F24-5867408BFB12}
+	EndGlobalSection
+EndGlobal
